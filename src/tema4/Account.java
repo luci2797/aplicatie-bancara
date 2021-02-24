@@ -68,4 +68,5 @@ public class Account extends java.util.Observable implements Serializable{
 			//a.update(this, a,this.getIdCont(),this.getIdTitular());
 		}
 	}
+	//test
 }
